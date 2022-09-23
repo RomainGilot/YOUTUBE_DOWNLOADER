@@ -13,6 +13,8 @@ Avant d'executer le programme, veillez à avoir python à jour et d'installer vi
 Vous pouvez executer le programme soit en ligne de commande via l'invite de
 commande.
 
+Des fichiers se créeront dans le dossier YOUTUBE_DOWNLOADER lorsque vous téléchargerez une vidéo ou musique.
+
 # Développé par Romain GILOT
 
 # Discord : Romainn#0209
